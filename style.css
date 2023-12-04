@@ -333,6 +333,9 @@ gap:30px;
   line-height: 30px;
    
 }
+.git{
+  margin-bottom: 20px;
+}
 .button{
 display: flex;
 flex-wrap: wrap;
